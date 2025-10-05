@@ -50,4 +50,5 @@ This project uses the "Air Quality" dataset to predict pollution levels based on
 - `AirQuality.csv`: The raw dataset used for this project.
 - `requirements.txt`: A list of required Python packages for easy installation.
 - `REPORT.pdf`: One-Page Write-up
-- - `README.md`: This file.
+- `README.md`: This file.
+
