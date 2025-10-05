@@ -37,16 +37,17 @@ This project uses the "Air Quality" dataset to predict pollution levels based on
     ```
 
 4.  **Run the Analysis**
-    The entire analysis is contained within the `air_quality_analysis.ipynb` Jupyter Notebook. Launch JupyterLab to run it.
+    The entire analysis is contained within the `air_quality_analysis.ipynb` colab Notebook. Google colab  to run it.
     ```bash
-    jupyter lab
+    Google Colab
     ```
-    Once JupyterLab opens in your browser, open the notebook and run the cells sequentially.
+    Once Colab opens in your browser, open the notebook and run the cells sequentially.
 
 ---
 
 ## Files in This Repository
-- `air_quality_analysis.ipynb`: The main Jupyter Notebook containing all code for the analysis and modeling.
+- `air_quality_analysis.ipynb`: The main Colab Notebook containing all code for the analysis and modeling.
 - `AirQuality.csv`: The raw dataset used for this project.
 - `requirements.txt`: A list of required Python packages for easy installation.
-- `README.md`: This file.
+- `REPORT.pdf`: One-Page Write-up
+- - `README.md`: This file.
