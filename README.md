@@ -15,8 +15,7 @@ This project uses the "Air Quality" dataset to predict pollution levels based on
 
 1.  **Clone the Repository**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-folder>
+    git clone https://github.com/prajwal-2201/Predicting-and-Analyzing-Air-Quality-Pattern
     ```
 
 2.  **Create and Activate a Virtual Environment** (Recommended)
@@ -51,5 +50,6 @@ This project uses the "Air Quality" dataset to predict pollution levels based on
 - `requirements.txt`: A list of required Python packages for easy installation.
 - `REPORT.pdf`: One-Page Write-up
 - `README.md`: This file.
+
 
 
